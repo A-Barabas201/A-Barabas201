@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Meet Amanda Barabas, PhD",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Email\n  \n\n      \n\n    \n    \n  \n\n\n\nMeet Amanda Barabas, PhD\nWelcome to my website! I am a biologist, with a passion for animal behavior and welfare that started as a child. I grew up competing in dog shows with my beagles and chihuahua which inspired an interest in how genetics and the environment influence animal behavior. This led me to acquiring a B.S. in Biology from Case Western Reserve University, and a PhD in Animal Behavior and Welfare from Purdue University.\nMy research interests focus on how we can improve the welfare of laboratory animals. Currently, my projects focus on extrinsic factors, which are environmental influences that shape an animal’s health, behavior, and the research parameters that are recorded from them. Right now, ongoing studies include:\n- how the quantity of nesting material impacts parameters recorded from laboratory mice\n- how the type of bedding influences reproduction in laboratory mice\n- how relative humidity varies seasonally in animal housing rooms, and how this may impact reproduction and research parameters\nAside from conducting research, I also manage a colony of transgenic mouse models of cystic fibrosis (CF) for the Cystic Fibrosis Mouse Resource Center. We are the world’s repository of CF mouse models and regularly send animals to other researchers globally. In my spare time, I am pursing a Master’s degree in biostatistics, in order to better utilize experimental design to balance the need to minimize the number of animals used in research, while still having enough power for robust and reproducible work.\nOn this website, you will find a selection of my published journal articles, as well as updates on my current research projects. I invite you to explore my website and learn more about my work as an animal scientist. Please feel free to contact me if you have any questions or would like to discuss potential projects."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Laboratory mice are cold stressed at standard housing temperatures, which has been shown to influence a variety of research parameters recorded from them. However, a simple solution to alleviate cold stress is to provide the mice with at least 8-10g of nesting material. This allows them to build insulating nests and better control their environment within the cage. Yet, facilities often do not provide this much material and are hesitant to do so, due to unknown potential impacts on model systems. We are trying to bridge this knowledge gap, starting with our CF mice, by giving them various amounts of nesting material, to see how common assays and parameters may be impacted.\n\n\n\n\nThe current standard choice for bedding in laboratory mouse cages is corn cob particulates. This substance is very absorbent and is effective at minimizing waste gases in the cage for 1-2 weeks. However, it has been shown that corn cob can disrupt endocrine system pathways, drawing concern for mouse welfare and reproductive performance. One of our current goals is to track reproduction parameters in the CF mouse colony when cages are given a variety of bedding types: corn cob, aspen shavings, and compressed paper bedding.\n\n\n\n\nAnimal facilities maintain strict control over temperature in the housing rooms, and it is assumed that relative humidity (RH) follows the same pattern. However, over the past several years, we have data showing that this is not true. RH in the housing room varies greatly between the summer and winter months. This opens up a variety of questions such as:\n- Does RH in the cage fluctuate in a similar pattern as RH in the room?\n- If so, how does this impact the mice?\nWe are currently exploring both of these questions by tracking RH in mouse cages across a variety of time points, and group sizes within the cage, as well as comparing measurements to pup mortality in our colony. Our first study has been published and we are in the process of collecting follow up data to expand the recording period and cage populations from which measurements are taken."
+  },
+  {
+    "objectID": "projects/index.html#nesting-material-and-mouse-welfare",
+    "href": "projects/index.html#nesting-material-and-mouse-welfare",
+    "title": "Projects",
+    "section": "",
+    "text": "Laboratory mice are cold stressed at standard housing temperatures, which has been shown to influence a variety of research parameters recorded from them. However, a simple solution to alleviate cold stress is to provide the mice with at least 8-10g of nesting material. This allows them to build insulating nests and better control their environment within the cage. Yet, facilities often do not provide this much material and are hesitant to do so, due to unknown potential impacts on model systems. We are trying to bridge this knowledge gap, starting with our CF mice, by giving them various amounts of nesting material, to see how common assays and parameters may be impacted."
+  },
+  {
+    "objectID": "projects/index.html#bedding-and-mouse-reproduction",
+    "href": "projects/index.html#bedding-and-mouse-reproduction",
+    "title": "Projects",
+    "section": "",
+    "text": "The current standard choice for bedding in laboratory mouse cages is corn cob particulates. This substance is very absorbent and is effective at minimizing waste gases in the cage for 1-2 weeks. However, it has been shown that corn cob can disrupt endocrine system pathways, drawing concern for mouse welfare and reproductive performance. One of our current goals is to track reproduction parameters in the CF mouse colony when cages are given a variety of bedding types: corn cob, aspen shavings, and compressed paper bedding."
+  },
+  {
+    "objectID": "projects/index.html#relative-huidity-in-the-mouse-cage",
+    "href": "projects/index.html#relative-huidity-in-the-mouse-cage",
+    "title": "Projects",
+    "section": "",
+    "text": "Animal facilities maintain strict control over temperature in the housing rooms, and it is assumed that relative humidity (RH) follows the same pattern. However, over the past several years, we have data showing that this is not true. RH in the housing room varies greatly between the summer and winter months. This opens up a variety of questions such as:\n- Does RH in the cage fluctuate in a similar pattern as RH in the room?\n- If so, how does this impact the mice?\nWe are currently exploring both of these questions by tracking RH in mouse cages across a variety of time points, and group sizes within the cage, as well as comparing measurements to pup mortality in our colony. Our first study has been published and we are in the process of collecting follow up data to expand the recording period and cage populations from which measurements are taken."
+  }
+]

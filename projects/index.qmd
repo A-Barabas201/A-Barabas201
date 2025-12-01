@@ -1,0 +1,35 @@
+---
+title: Projects
+---
+
+# Current
+
+## Nesting material and mouse welfare
+
+Laboratory mice are cold stressed at standard housing temperatures, which has been shown to influence a variety of research parameters recorded from them. However, a simple solution to alleviate cold stress is to provide the mice with at least 8-10g of nesting material. This allows them to build insulating nests and better control their environment within the cage. Yet, facilities often do not provide this much material and are hesitant to do so, due to unknown potential impacts on model systems. We are trying to bridge this knowledge gap, starting with our CF mice, by giving them various amounts of nesting material, to see how common assays and parameters may be impacted.
+
+----
+
+## Bedding and mouse reproduction
+
+The current standard choice for bedding in laboratory mouse cages is corn cob particulates. This substance is very absorbent and is effective at minimizing waste gases in the cage for 1-2 weeks. However, it has been shown that corn cob can disrupt endocrine system pathways, drawing concern for mouse welfare and reproductive performance. One of our current goals is to track reproduction parameters in the CF mouse colony when cages are given a variety of bedding types: corn cob, aspen shavings, and compressed paper bedding. 
+
+----
+
+## Relative huidity in the mouse cage
+
+Animal facilities maintain strict control over temperature in the housing rooms, and it is assumed that relative humidity (RH) follows the same pattern. However, over the past several years, we have data showing that this is not true. RH in the housing room varies greatly between the summer and winter months. This opens up a variety of questions such as:  
+- Does RH in the cage fluctuate in a similar pattern as RH in the room?  
+- If so, how does this impact the mice?  
+We are currently exploring both of these questions by tracking RH in mouse cages across a variety of time points, and group sizes within the cage, as well as comparing measurements to pup mortality in our colony. Our first study has been [published](https://doi.org/10.3390/ani14223164){.external target="_blank"} and we are in the process of collecting follow up data to expand the recording period and cage populations from which measurements are taken. 
+
+----
+
+# Past Work
+
+My PhD work focused on how olfactory signals influence social behavior in male laboratory mice. Of note, we determined that nests contain a variety of odors that mice use for kin recognition, with compounds originating from urine, saliva, and plantar sweat. Several compounds were associated with reduced aggression and increased socio-positive behaviors. However, our first and only attempt at developing treatments to test a causative effect did not produce any differences in behavior. We also found that a known mouse pheromone, darcin, can be used to identify dominant vs subordinate mice, instead of relying on timely behavior observations. Select publications are listed below:  
+
+- [Proteome characterization of used nesting material and potential protein sources from group housed male mice, Mus musculus](https://www.nature.com/articles/s41598-019-53903-x){.external target="_blank"}  
+- [Compounds from plantar foot sweat, nesting material, and urine show strain patterns associated with agonistic and affiliative behaviors in group housed male mice, Mus musculus](https://doi.org/10.1371/journal.pone.0251416){.external target="_blank"}
+- [Assessing the effect of compounds from plantar foot sweat, nesting material, and urine on social behavior in male mice, Mus musculus](https://doi.org/10.1371/journal.pone.0276844){.external target="_blank"}  
+- [Who’s the boss? Assessing convergent validity of aggression based dominance measures in male laboratory mice, Mus musculus. ](https://doi.org/10.3389/fvets.2021.695948){.external target="_blank"}

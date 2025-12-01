@@ -1,0 +1,30 @@
+---
+about:
+  template: solana
+  id: about-block
+  image: "img/AmandaBarabas2edit2.jpg" 
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: http://www.linkedin.com/in/amanda-barabas201
+    - icon: envelope
+      text: Email
+      href: "mailto:ajb201@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Meet Amanda Barabas, PhD
+
+Welcome to my website! I am a biologist, with a passion for animal behavior and welfare that started as a child. I grew up competing in dog shows with my beagles and chihuahua which inspired an interest in how genetics and the environment influence animal behavior. This led me to acquiring a B.S. in Biology from Case Western Reserve University, and a PhD in Animal Behavior and Welfare from Purdue University.
+
+My research interests focus on how we can improve the welfare of laboratory animals. Currently, my projects focus on extrinsic factors, which are environmental influences that shape an animal's health, behavior, and the research parameters that are recorded from them. Right now, ongoing studies include:  
+- how the quantity of nesting material impacts parameters recorded from laboratory mice  
+- how the type of bedding influences reproduction in laboratory mice  
+- how relative humidity varies seasonally in animal housing rooms, and how this may impact reproduction and research parameters
+
+Aside from conducting research, I also manage a colony of transgenic mouse models of cystic fibrosis (CF) for the [Cystic Fibrosis Mouse Resource Center](https://cfmice.org){.external target="_blank"}. We are the world's repository of CF mouse models and regularly send animals to other researchers globally. In my spare time, I am pursing a Master's degree in biostatistics, in order to better utilize experimental design to balance the need to minimize the number of animals used in research, while still having enough power for robust and reproducible work.  
+
+On this website, you will find a selection of my published journal articles, as well as updates on my current research projects. I invite you to explore my website and learn more about my work as an animal scientist.
+Please feel free to [contact me](mailto:ajb201@case.edu) if you have any questions or would like to discuss potential projects.

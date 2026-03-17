@@ -1,0 +1,19 @@
+---
+title: "Blog"
+---
+
+# Response to "What Have We (Not) Learnt from Millions of Scientific Papers with P Values?"
+
+I recently read "What Have We (Not) Learnt from Millions of Scientific Papers with P Values?" by J. P. A. Ioannidis, which was featured in the supplement [Statistical Inference in the 21st Century: A World Beyond p < 0.05](https://amstat.tandfonline.com/toc/utas20/73/sup1){.external target="_blank"} from 2019 in *The American Statistician*. This article focuses on the prevalence of P values reported in biomedical research articles, and the pitfalls associated with them, namely selection biases that render the associated research unreliable. Ionannidis proposes some analytical remedies to the reliance on P values. One of his suggestions struck me:  
+
+"In most fields and with most types of study designs, NHST [null hypothesis significance testing] should not be the default choice for analysis."  
+
+He goes on to list some examples of common study designs that should not be analyzed using null hypothesis significance tests, notably: **evaluating medical therapies in randomized trials**. This suggestion is supported by the following reference which is co-authored by Ioannidis from 2017: [A simulation study of the strength of evidence in the recommendation of medications based on two trials with statistically significant results](https://pmc.ncbi.nlm.nih.gov/articles/PMC5342224/){.external target="_blank"}    
+
+Pardon me, but what?!  
+
+As of writing this post in March 2026, I have taken one undergraduate statistics course, three graduate level statistics courses during my PhD, and am in my second semester of a part time master's degree in biostatistics. I have never heard anyone say that randomized clinical trials should not be analyzed using null hypothesis significance tests. This is the default methodology I have been taught by multiple professors. How is this incorrect?  
+
+Obviously, I had to open the 2017 reference and briefly, it provides data to support the use of Bayes factors for assessing the efficacy of new medications tested by randomized trials. Unfortunately, I don't know enough about Bayes factors (yet) to know if I fully understand the presented data. Now my mind is full of questions. Why don't I know enough about Bayes factors? Why have the statistics courses I've taken focus on null hypothesis significance tests if they are not as reliable as they are supposed to be? Given my animal welfare background, I think about how much preclinical work didn't lead to a clinical benefit (for example, see [The significance of meaning: why do over 90% of behavioral neuroscience results fail to translate to humans, and what can we do to fix it?](https://pubmed.ncbi.nlm.nih.gov/25541546/){.external target="_blank"}) and arguably "wasted" animal lives. Was this because the wrong analysis method was used? Would more diverse statistical training lead to more responsible animal studies by not chasing false positives and not missing false negatives? 
+
+One of my goals for pursuing a master's in biostatistics is to learn more analytical techniques that would make preclinical data more reliable and translatable. This work by Ioannidis is both motivating and sobering in how much I may or may not be exposed to.
